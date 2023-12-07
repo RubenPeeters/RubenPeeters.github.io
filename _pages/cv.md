@@ -9,27 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-## Full Name
-
-Ruben Paul Bert Peeters
-## Contact Information
-
-- GitHub: https://github.com/RubenPeeters
-- Linkedin: https://www.linkedin.com/in/ruben-peeters-861271163/
-- Email: ruben@fampeeters.be
-- Phone: +32468015561
-
 ## Description
 
-Aspiring polymath with a background in Information Engineering Technology, seeking a position in data science, data engineering or software development. Interested in AI/ML, knowledge graphs, ontologies, semantic annotation, FAIR data, and their application across various domains. Ability to shoulder large responsibilities, and show assertiveness when needed. Ask me about my experience at VITO and the many challenges we are conquering there. Avid lover of games, both online and over the board.
+Aspiring polymath with a background in Information Engineering Technology. Interested in AI/ML, knowledge graphs, ontologies, semantic annotation, FAIR data, and their application across various domains. Ability to shoulder large responsibilities, and show assertiveness when needed. Ask me about my experience at VITO and the many challenges we are conquering there. Avid lover of games, both online and over the board.
 
 ## Education
 
-- Latin/maths and Sciences (8h math, 2010 - 2016)
 - Bachelor of Science in Information Engineering Technology (2016-2021)
-	- Bachelor project: "Development of a code learning platform for kids, through block programming", grade: Summa Cum Laude (17/20), group, leadership role and developer
+	- Bachelor project: "Development of a code learning platform for kids, through block programming", grade: Summa Cum Laude (17/20)
 - Master of Science in Information Engineering Technology (2021-2022, Cum Laude)
-	- Master thesis subject: "Deep reinforcement learning for network intrusion detection", grade: Cum Laude (14/20), solo
+	- Master thesis: "Deep reinforcement learning for network intrusion detection", grade: Cum Laude (14/20)
 
 ## Work Experience
 - Laborer in town *green service* (2016).
