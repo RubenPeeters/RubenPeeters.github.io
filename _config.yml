@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ruben Peeters"
-  avatar           : "profile.jpg"
+  avatar           : "https://rubenpeeters.github.io/files/profile.jpg"
   bio              : "Research Engineer & Data Steward"
   location         : "Belgium"
   employer         : "VITO"
