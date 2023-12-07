@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ruben Peeters"
 title_separator          : "-"
 name                     : &name "Ruben Peeters"
-description              : &description "Research Engineer & Data Steward"
+description              : &description "Personal portfolio site"
 url                      : https://rubenpeeters.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "RubenPeeters/rubenpeeters.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Ruben Peeters"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "profile.jpg"
+  bio              : "Research Engineer & Data Steward"
   location         : "Belgium"
   employer         : "VITO"
   pubmed           : 
