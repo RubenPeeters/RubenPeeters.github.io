@@ -16,17 +16,11 @@ Aspiring polymath with a background in Information Engineering Technology. Inter
 ## Education
 
 - Bachelor of Science in Information Engineering Technology (2016-2021)
-	- Bachelor project: "Development of a code learning platform for kids, through block programming", grade: Summa Cum Laude (17/20)
+	- Bachelor project: "Development of a code learning platform for kids, through block programming"
 - Master of Science in Information Engineering Technology (2021-2022, Cum Laude)
-	- Master thesis: "Deep reinforcement learning for network intrusion detection", grade: Cum Laude (14/20)
+	- Master thesis: "Deep reinforcement learning for network intrusion detection"
 
 ## Work Experience
-- Laborer in town *green service* (2016).
-- Administrative worker at town hall (2019).
-	- QGIS
-	- Word
-	- Excel
-	- People skills
 - Data Engineer at VITO, Health Unit (2022 - present).
 	- Projects:
 		- PARC

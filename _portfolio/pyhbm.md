@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Python Data Harmonization and Transformation package"
+excerpt: "PyHBM is a python package that was created as part of my work at VITO, to enable FAIRification of HBM datasets."
 collection: portfolio
 ---
 
