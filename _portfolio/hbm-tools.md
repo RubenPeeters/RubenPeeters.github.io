@@ -10,16 +10,16 @@ In the human biomonitoring (HBM) field, data is inherently sensitive. Hence, why
 
 ## Usage
 
-1. Selecting a codebook
+### Selecting a codebook
 
 First you will have to select the relevant `codebook` (later on you will be able to upload your own). `codebook` is just another word for the configuration.
 ![select-codebook](/images/select-codebook.png)
 
-1. Selecting a file
+### Selecting a file
 
 With the select file button, you will select the data you want validated, according to the codebook you selected.
 
-3. Validate
+### Validate
 
 After selecting your file, the data will be validated automatically. Errors that have been found will be written to the screen, as seen below.
 
