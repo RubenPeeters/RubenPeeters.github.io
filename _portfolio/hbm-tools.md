@@ -1,6 +1,6 @@
 ---
 title: "HBM tools"
-excerpt: "Expose PyHBM, in a GDPR-friendly way.<br/><img src='/images/hbm-tools.png' style='max-width:500px; max-height:300px'>"
+excerpt: "Expose PyHBM, in a GDPR-friendly way.<br/><img src='/images/hbm-tools.jpg' style='max-width:500px; max-height:300px'>"
 collection: portfolio
 ---
 
@@ -49,3 +49,4 @@ Additional information on the harmonization process that is enabled through the 
 - [Data harmonization guide](https://hbm.vito.be/tools/data-harmonization)
 
 
+Image by <a href="https://www.freepik.com/free-vector/hand-drawn-illustrated-gathering-data-concept_19534847.htm#query=data%20harmonization&position=12&from_view=search&track=ais&uuid=88313f7b-8493-480d-b074-e301cca54710">Freepik</a>
