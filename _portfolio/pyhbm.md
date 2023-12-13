@@ -1,6 +1,6 @@
 ---
 title: "PyHBM"
-excerpt: "Python package to enable harmonization and FAIRification.<br/><img src='/images/python.png' style='max-width:500; max-height:300'>"
+excerpt: "Python package to enable harmonization and FAIRification.<br/><img src='/images/python.png' style='max-width:500px; max-height:300px'>"
 collection: portfolio
 ---
 

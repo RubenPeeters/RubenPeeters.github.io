@@ -1,6 +1,6 @@
 ---
 title: "HBM tools"
-excerpt: "Expose PyHBM, in a GDPR-friendly way.<br/><img src='/images/hbm-tools.png' style='max-width:500; max-height:300'>"
+excerpt: "Expose PyHBM, in a GDPR-friendly way.<br/><img src='/images/hbm-tools.png' style='max-width:500px; max-height:300px'>"
 collection: portfolio
 ---
 
