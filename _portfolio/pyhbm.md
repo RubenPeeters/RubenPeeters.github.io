@@ -1,6 +1,6 @@
 ---
 title: "PyHBM"
-excerpt: "Python package to enable harmonization and FAIRification.<br/><img src='/images/python.png' width='500' height='300' style='max-width:500px; max-height:300px'>"
+excerpt: "Python package to enable harmonization and FAIRification.<br/><img src='/images/pyhbm.png' width='500' height='300' style='max-width:500px; max-height:300px'>"
 collection: portfolio
 ---
 
@@ -101,3 +101,6 @@ The package is used in an online tool, which you can find here:
 
 Additional information on the harmonization process that is enabled through the package can be found here:
 - [Data harmonization guide](https://hbm.vito.be/tools/data-harmonization)
+
+
+<a href="https://storyset.com/web">Web illustrations by Storyset</a>
