@@ -97,7 +97,7 @@ The output is in JSON format, separating structural and validation errors.
 ## Relevant links
 
 The package is used in an online tool, which you can find here:
-- https://tools.hbm.vito.be/validation
+- [PyHBM validation](https://tools.hbm.vito.be/validation)
 
 Additional information on the harmonization process that is enabled through the package can be found here:
-- https://hbm.vito.be/tools/data-harmonization
+- [Data harmonization guide](https://hbm.vito.be/tools/data-harmonization)
