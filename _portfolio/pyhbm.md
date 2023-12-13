@@ -1,10 +1,10 @@
 ---
 title: "PyHBM"
-excerpt: "PyHBM is a python package that was created as part of my work at VITO, to enable harmonization and FAIRification of HBM datasets."
+excerpt: "PyHBM is a python package that was created as part of my work at VITO, to enable harmonization and FAIRification of HBM datasets.<br/><img src='/images/python.png'>"
 collection: portfolio
 ---
 
-## Descrpition
+## Description
 
 PyHBM is a Python package that enables data harmonization in the human biomonitoring (HBM) field. The user can provide configuration in the well-known Excel format, based on simple instructions. The package can be installed and used through the command line.
 

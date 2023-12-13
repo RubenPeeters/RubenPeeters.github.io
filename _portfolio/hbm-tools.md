@@ -1,6 +1,6 @@
 ---
 title: "HBM tools"
-excerpt: "The HBM tools website exposes the functionality of PyHBM, in a GDPR-friendly way."
+excerpt: "The HBM tools website exposes the functionality of PyHBM, in a GDPR-friendly way.<br/><img src='/images/hbm-tools.png'>"
 collection: portfolio
 ---
 
@@ -13,7 +13,7 @@ In the human biomonitoring (HBM) field, data is inherently sensitive. Hence, why
 1. Selecting a codebook
 
 First you will have to select the relevant `codebook` (later on you will be able to upload your own). `codebook` is just another word for the configuration.
-![select-codebook](select-codebook.png)
+![select-codebook](/images/select-codebook.png)
 
 1. Selecting a file
 
@@ -23,7 +23,7 @@ With the select file button, you will select the data you want validated, accord
 
 After selecting your file, the data will be validated automatically. Errors that have been found will be written to the screen, as seen below.
 
-![validation-output](validation-output.png)
+![validation-output](/images/validation-output.png)
 
 ## Relevant technologies
 
