@@ -1,6 +1,6 @@
 ---
 title: "PyHBM"
-excerpt: "PyHBM is a python package that was created as part of my work at VITO, to enable harmonization and FAIRification of HBM datasets.<br/><img src='/images/python.jpg' width='500' height='300'>"
+excerpt: "PyHBM is a python package that was created as part of my work at VITO, to enable harmonization and FAIRification of HBM datasets.<br/><img src='/images/python.png' width='400' height='400'>"
 collection: portfolio
 ---
 
