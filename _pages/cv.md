@@ -142,7 +142,7 @@ Aspiring polymath with a background in Information Engineering Technology. Inter
 ## Extracurricular Activities or Leadership Roles
 
 - Founder of UGent Esports, an esports organization for Ghent University students with over 300 members, winning notable tournaments.
-	- Relevant skils:
+	- Relevant skills:
 		- Leadership
 		- Organizational skills
 		- Patience, relationship building
