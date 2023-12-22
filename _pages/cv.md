@@ -21,11 +21,20 @@ Aspiring polymath with a background in Information Engineering Technology. Inter
 
 ## Work Experience
 - Data Engineer at VITO, Health Unit (2022 - present).
+	- Relevant skills:
+		- Data engineering
+		- Data governance
+		- Data stewardship
+		- FAIR data	
+		- Project management
+		- Writing research output
+		- Linked data
+		- Ontologies
 	- Projects:
 		- PARC
 			- https://www.eu-parc.eu/
 			- *"Partnership for the Assessment of Risks from Chemicals aims to develop next-generation chemical risk assessment to protect human health and the environment. It supports the European Union's Chemicals Strategy for Sustainability and the European Green Deal's “Zero pollution” ambition with new data, knowledge, methods and tools, expertise and networks."*
-			- Position in project: researcher as part of WP7 - FAIR data
+			- Position in project: data engineer/researcher as part of WP7 - FAIR data
 			- 200+ partners in over 80 countries. 400 million EURO in funding.
 			- Responsibilities:
 				- Developing python package that allows for smooth validation of data, adding of calculated variables and calculating summary statistics. The package also allows for transformation to FAIR data format, namely RO-crate. The configuration for this package can be created by the researcher itself through the use of an excel format.
@@ -80,7 +89,7 @@ Aspiring polymath with a background in Information Engineering Technology. Inter
 		- INQUIRE
 			- https://inquire-he.eu/
 			- "*Enabling homes to realise zero pollution holds multiple health benefits for all Europeans – especially our children. This is the goal of the EU-funded INQUIRE project. It will provide the knowledge, tools and measures needed to significantly enhance indoor air quality. Research on hazardous determinants and their sources, risk factors and effects will focus in particular on infants and young children up to 5 years old. The work will include non-invasive sampling and monitoring of over 200 homes in eight countries over the course of 1 month. Results will inform evidence-based recommendations and support beneficial exploitation by industry and policymakers.*"
-			- Position in project: researcher as part of WP6 - FAIR data
+			- Position in project: data engineer/researcher as part of WP6 - FAIR data
 			- Responsibilities:
 				- Analyzing and assessing of FAIR repositories, for storage of project data.
 				- Development of data platform for storage of *PEOPLE* and *HOME* data (INQINT).
