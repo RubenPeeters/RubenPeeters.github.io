@@ -10,7 +10,7 @@ redirect_from:
 
 ## Description
 
-Aspiring polymath with a background in Information Engineering Technology. Interested in AI/ML, knowledge graphs, ontologies, semantic annotation, FAIR data, and their application across various domains. Ability to shoulder large responsibilities, and show assertiveness when needed. Ask me about my experience at VITO and the many challenges we are conquering there. Avid lover of games, both online and over the board.
+Aspiring polymath with a formal education in Information Engineering Technology. Interested in AI/ML, knowledge graphs, ontologies, semantic annotation, FAIR data, and their application across various domains. Ask me about my experience at VITO and the many challenges we are conquering there. Avid lover of games, both online and over the board.
 
 ## Education
 
@@ -37,17 +37,17 @@ Aspiring polymath with a background in Information Engineering Technology. Inter
 			- Position in project: data engineer/researcher as part of WP7 - FAIR data
 			- 200+ partners in over 80 countries. 400 million EURO in funding.
 			- Responsibilities:
-				- Developing python package that allows for smooth validation of data, adding of calculated variables and calculating summary statistics. The package also allows for transformation to FAIR data format, namely RO-crate. The configuration for this package can be created by the researcher itself through the use of an excel format.
+				- Developing python package that allows validation of data, adding of calculated variables and calculating summary statistics. The package also allows for transformation to FAIR data format, namely RO-crate. The configuration for this package can be created by the researcher itself through the use of an excel format.
 				- Developing web tool which exposes this functionality to the less-technical user. (https://hbm.vito.be and https://tools.hbm.vito.be). The tool is not allowed to use a backend, due to the highly-sensitive nature of the data. The python package is compiled to WebAssembly using Pyodide.
 				- Further developing existing data platform, for storage of Personal Exposure & Health (PEH) data.
-				- Leading workshops to harmonize on metadata for the Human Biomonitoring (HBM) domain. Participants are domain experts, with next to no technical expertise. 
-				- Transforming this metadata to FAIR data, by linking to FAIR ontologies and FAIR controlled vocabularies.
-				- Contributing to FAIRification of *model* metadata, such as metadata on PBK model inventories.
-				- Contributing to FAIR ontologies developed in PARC (https://github.com/eu-parc/parco)
-				- Contributing to conceptual models of aggregate exposure (https://github.com/eu-parc/aggregate-exposure-modelling)
-				- Developing script to create FAIR convergence matrix (https://github.com/eu-parc/FAIR-convergence-matrix)
-				- Following FAIR courses. These are given by the GO Fair Foundation (GFF). After finishing the course, the students become FAIR facilitators and get the responsibility of taking over the tasks of the GFF for the remaining duration of the project. I have completed this course and will get my official certification on 29th january 2024. Further courses are in progress. They will lead to a FAIR trainer certification.
-				- Modelling of data in the HBM domain. This model has to take into account broad possibilities as the users will be scattered around the entirety of Europe.
+				- Leading workshops to harmonize metadata for the Human Biomonitoring (HBM) domain. Participants are domain experts, with little technical expertise. 
+				- Transforming metadata to FAIR data, by linking to FAIR ontologies and FAIR controlled vocabularies.
+				- Leading FAIRification of *model* metadata, such as metadata on PBK model inventories. (deliverables to make FAIR: [AD6.3](https://www.eu-parc.eu/sites/default/files/2023-08/PARC_AD6.3.pdf), [AD6.4](https://www.eu-parc.eu/sites/default/files/2023-08/PARC_AD6.4.pdf))
+				- Contributing to FAIR ontologies developed in PARC [parco](https://github.com/eu-parc/parco)
+				- Contributing to conceptual model to capture research data. Started based on HBM data. [parco-hbm](https://github.com/eu-parc/parco-hbm)
+				- Contributing to conceptual models of aggregate exposure [aggregate-exposure-modelling](https://github.com/eu-parc/aggregate-exposure-modelling)
+				- Developing script to create FAIR convergence matrix [FAIR convergence matrix](https://github.com/eu-parc/FAIR-convergence-matrix)
+				- Following FAIR courses. These are given by the GO Fair Foundation (GFF). After finishing the course, the students become FAIR facilitators and get the responsibility of taking over the tasks of the GFF for the remaining duration of the project. I have completed this course and will get my official certification on 29th january 2024. Further courses are in progress. They will lead to a FAIR trainer certification. [GFF](https://www.gofair.foundation/)
 				- Harmonizing questionnaires across all partners.
 					- Developing data template which handles complexity of both the links between questions and the additional validation.
 			- Relevant technologies:
@@ -71,6 +71,7 @@ Aspiring polymath with a background in Information Engineering Technology. Inter
 				- XML
 				- JSON
 				- Linked data
+				- RO-crate
 				- Ontologies
 					- OWL
 					- OBI
