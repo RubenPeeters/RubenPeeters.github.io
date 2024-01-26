@@ -122,7 +122,7 @@ Aspiring polymath with a formal education in Information Engineering Technology.
 					- scikit-learn
 					- polyglot
 		- Data management team:
-			- Description: "*My colleague and I were the first technical people in the unit. As our team started growing we needed some kind of hierarchy. My colleague, who is my senior by 25 years, has lots of content-related knowledge, but refrains from leading the team. This led to him and myself taking on this work together.*"
+			- Description: "*My colleague and I were the first technical data people in the unit. Together we set up a team surrounding data.*"
 			- Responsibilities:
 				- Managing colleagues.
 				- Matching problems with skillsets of colleagues.
